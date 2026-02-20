@@ -1,2 +1,0 @@
-# Drawing-verification
-so sad
